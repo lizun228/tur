@@ -38,8 +38,6 @@ a {
 }
 
 .header .nav__bar a.activePage::after {
-    content: '';
-    display: block;
     width: 100%;
     height: 2px;
     background-color: #fff;
